@@ -1,2 +1,1 @@
-# Terraform_Course
-Terraform course content 
+# Welcome to IT TECH TARUN Portal
