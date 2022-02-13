@@ -1,6 +1,6 @@
 ## Terraform Course
 
-![](tf_img.png)
+![](imgs/tf_img.png)
 
  Terraform is one of the most popular Infra Provisioning tool.
  Terraform is an infrastructure Automation tool for the infrastructure in a safe efficient and reusable way. 
@@ -23,13 +23,13 @@
   
 ![](tf_topics.png)
 
-[Demo-Introduction To Terrform]()
+[Demo-Introduction To Terraform](https://youtu.be/MfPzmNQbUzg)
 
 <h3><b>Enroll now at Just <i>1999rs</i> (Limited Time Offer for few members)</h3></b>
 
-![](price.png)
+![](imgs/price.png)
 
-[![Terraform Course](buy_now.PNG)](https://ittechtarun.mojo.page/terraform-course-in-telugu "Click Here to Buy")
+[![Terraform Course](imgs/buy_now.PNG)](https://ittechtarun.mojo.page/terraform-course-in-telugu "Click Here to Buy")
 
 Once you have enrolled in the course, you will get access to the Terraform Recorded Sessions, Terraform_codes, Presentations, Useful links. You can watch those and learn terraform at your convenient timings.
 
